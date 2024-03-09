@@ -1,0 +1,4 @@
+name: hyperhard
+version: '${version}'
+main: com.github.hynj01.hyperhard.Hyperhard
+api-version: '1.20'
